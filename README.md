@@ -107,4 +107,3 @@ Hint Our function initializes a new dictionary with damage ratings as the keys a
 
 hurricanes_by_damage = {0:[],1:[],2:[],3:[],4:[],5:[]} We then iterate through each hurricane in our dictionary, find the damage caused by that hurricane, and compare the damage to the lower and upper bound for each of the damage ratings. If the damages fall above the lower bound and are less than or equal to the upper bound of damages for a rating, the hurricane is appended to the list of the appropriate rating in hurricanes_by_damage.
 
-Solution 11. Great work! Visit our forums to compare your project to our sample solution code. You can also learn how to host your own solution on GitHub so you can share it with other learners! Your solution might look different from ours, and that’s okay! There are multiple ways to solve these projects, and you’ll learn more by seeing others’ code.
